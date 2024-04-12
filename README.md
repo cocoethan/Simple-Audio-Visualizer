@@ -4,8 +4,8 @@
 This project displays visuals that are responsive to music. Each visual has elements that can be manipulated through provided settings to create unique graphics.
 
 ## Screenshots
-![Screenshot1](assets/screenshot_1.png)
-![Screenshot2](assets/screenshot_2.png)
+<img src="assets/screenshot_1.png" alt="Screenshot1" width="200" height="200">
+<img src="assets/screenshot_2.png" alt="Screenshot2" width="200" height="200">
 
 ## General Info
 This project includes two _ImGui_ windows (Audio Player, Settings). Each window supports dragging and collapsing. You can collapse a window by pressing the dropdown arrow at the top left.
