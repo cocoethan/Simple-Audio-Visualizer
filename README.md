@@ -1,6 +1,4 @@
 # Simple Audio Visualizer
-
-## Description
 This project displays visuals that are responsive to music. Each visual has elements that can be manipulated through provided settings to create unique graphics.
 
 ## Screenshots
