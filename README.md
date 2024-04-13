@@ -4,7 +4,7 @@
 This project displays visuals that are responsive to music. Each visual has elements that can be manipulated through provided settings to create unique graphics.
 
 ## Screenshots
-<p align="middle">
+<p float="left">
     <img src="assets/screenshot_1.png" alt="Screenshot1" width="400" height="400">
     <img src="assets/screenshot_2.png" alt="Screenshot2" width="400" height="400">
 </p>
